@@ -13,8 +13,8 @@
 <body>
 
 <div class="container-md mt-5 col-11">
-    <h1>Hitung Weton Slurrr</h1>
-    <div id="emailHelp" class="form-text">by <img src="github.png" alt="" srcset="" class="github">bowouhuy</div>
+    <h1>Hitung Weton</h1>
+    <div id="emailHelp" class="form-text">by <img src="github.png" alt="" srcset="" class="github"></div>
     <img src="head-min.jpg" alt="" srcset="" class="ikon">
     <div class="card mb-3">
         <div class="card-body" >
@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 <input type="button" value="Hitung" id="submit" class="btn btn-primary mt-2 col-12 btn-hitung">
-                <div id="emailHelp" class="form-text"><b>Disclaimer!</b> Cuma iseng buat, tidak bisa menjadi patokan dalam kehidupan. Semuanya kembali ke kepercayaan masing-masing.</div>
+                <div id="emailHelp" class="form-text"><br><b>Disclaimer!</b> Cuma iseng buat, tidak bisa menjadi patokan dalam kehidupan. Semuanya kembali ke kepercayaan masing-masing.</div>
             </form>
         </div>
     </div>
@@ -68,7 +68,7 @@
         </div>
       </div>
       <div class="modal-footer">
-      <div id="emailHelp" class="form-text">Find on <img src="github.png" alt="" srcset="" class="github">github bowouhuy</div>
+      <div id="emailHelp" class="form-text">Find on <img src="github.png" alt="" srcset="" class="github"></div>
       </div>
     </div>
   </div>
