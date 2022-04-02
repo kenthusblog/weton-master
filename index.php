@@ -79,7 +79,7 @@
         </div>
       </div>
       <div class="modal-footer">
-      <div id="emailHelp" class="form-text">Find on <img src="github.png" alt="" srcset="" class="github"></div>
+      <div id="emailHelp" class="form-text">Find on <img src="https://1.bp.blogspot.com/-TJveDHmopf8/YAczjGBH28I/AAAAAAAAHts/Ypusd4262wgzQAzJySOLp_jrldMW2_enwCLcBGAsYHQ/s1134/blangkon.png" alt="" srcset="" class="github"></div>
       </div>
     </div>
   </div>
